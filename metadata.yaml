@@ -1,0 +1,47 @@
+_repo: The-Book-of-Vagabonds-and-Beggarswith-a-Vocabulary-of-Their-Language_46287
+_version: 0.1.0
+alternative_title: Liber vagatorum. English
+contributor:
+  translator:
+    agent_name: Hotten, John Camden
+    aliases:
+    - London antiquary
+    - Hotten, J. C. (John Camden)
+    - Taylor, Theodore
+    - Sylvestre, Joshua
+    - Sylvester, Joshua
+    - Hotten, J. W. (John William)
+    - Hotten, John William
+    - Hottin, J. C. (John Camden)
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '41526'
+    url: http://www.gutenberg.org/2009/agents/41526
+covers:
+- cover_type: archival
+  image_path: 46287-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_issued: '2014-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46287'
+  lccn: 09033840
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Begging -- Germany'
+- !lcsh 'Wayfaring life -- Germany'
+- !lcc 'HV'
+- !lcsh 'German language -- Slang'
+title: The Book of Vagabonds and Beggars, with a Vocabulary of Their Language
+url: http://www.gutenberg.org/ebooks/46287
