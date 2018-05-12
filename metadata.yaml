@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46287#The-Book-of-Vagabonds-and-Beggarswith-a-Vocabulary-of-Their-Language
 gutenberg_issued: '2014-07-15'
 gutenberg_type: Text
 identifiers:
